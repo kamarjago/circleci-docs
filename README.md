@@ -1,3 +1,4 @@
+./scripts/test-setup.sh
 # CircleCI Docs Static Site: Technical Documentation
 
 Welcome to the comprehensive technical documentation for the CircleCI Docs Static Site project. This documentation is designed to help developers, content authors, and contributors understand the project's architecture, workflow, and best practices.
