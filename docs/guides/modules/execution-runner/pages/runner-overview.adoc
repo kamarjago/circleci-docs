@@ -1,4 +1,5 @@
-= CircleCI's self-hosted runner overview
+runner-overview.adoc
+CircleCI's self-hosted runner overview
 :page-platform: Cloud, Server v4+
 :page-description: Learn how CircleCI's self-hosted runners enable you to use your own infrastructure for running jobs.
 :experimental:
