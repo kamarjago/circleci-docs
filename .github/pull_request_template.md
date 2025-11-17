@@ -1,4 +1,5 @@
-# Description
+<!-- Please search existing issues to avoid creating duplicates -->
+<!-- Please attach logs to help us diagnose your issue --># Description
 What did you change?
 
 # Reasons
